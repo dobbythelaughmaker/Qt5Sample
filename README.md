@@ -1,5 +1,7 @@
 # Qt5Sample
 QTでGUIアプリ開発の小ネタ集。自分用ですが参考にﾄﾞｿﾞｰ。
+![gunu](https://user-images.githubusercontent.com/35975215/36033233-bea92c12-0df3-11e8-8b35-f6bba60f58ed.png)
+
 ## 環境
 #### Ubuntu 16.04 desktop (ubuntu-ja-16.04-desktop-amd64.iso)
 #### Qt 5.7.0 (qt-opensource-linux-x64-5.7.0.run)
